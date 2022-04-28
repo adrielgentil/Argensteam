@@ -1,0 +1,47 @@
+INICIO
+    header nav --> Logo, Tienda, (Usuario cuando logea), acerca de, soporte,               log in.
+
+    body --> 1er bloque con juegos en un carrusel.
+             2do bloque con juegos en oferta (no carrusel)
+             n   bloque juegos generales.
+
+    aside--> Buscar
+             Lo mas vendido
+             Categorias
+
+
+PERFIL
+    header --> Foto, usuario, estado
+    expositor logros?????????
+    horas de juego en la semana
+    lista de ultimos juegos jugados: foto juego, cant de horas, ultima vez jugado
+
+BIBLIOTECA
+
+    mosaico --> ¿con lista de opciones abajo?
+    aside --> lista juegos
+
+DETALLE DE JUEGO 
+    Video   boton comprar/ whislist
+
+    foto 
+    detalle: descripcion, editioral, anio.
+
+
+WHISHLIST
+
+
+ACERCA DE
+
+
+SOPORTE 
+
+
+NOTICIAS
+
+
+
+
+
+
+    
