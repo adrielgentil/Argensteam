@@ -1,0 +1,50 @@
+.body{
+    background-image: url('images/fondo.jpg');
+}
+
+.logo{
+    margin: 0;
+    padding: 0;
+  height: 100px;
+  width: 250px;
+}
+
+.as{
+    align-self: center;
+}
+
+.nav-button{
+    color: white;
+    font-family: 'Permanent Marker';
+    font-size: x-large;
+}
+.nav-fondo{
+    background-color: black;
+}
+
+.inicio{
+    color: antiquewhite;
+    text-decoration: underline;
+}
+
+.opacity::before {    
+    content: "";
+    background-image: url('images/fondo.jpg');
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.30;
+}
+
+.ancho{
+    width: 40%;
+    height: 28rem;
+}
+.register-btn{
+    color: white;
+    font-size: large;
+    text-align: center;
+}
