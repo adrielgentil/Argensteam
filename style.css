@@ -1,5 +1,6 @@
 .body{
     background-image: url('images/fondo.jpg');
+    background-size: cover;
 }
 
 .logo{
@@ -34,17 +35,26 @@
     position: absolute;
     top: 0px;
     right: 0px;
-    bottom: 0px;
+    bottom: -362px;
     left: 0px;
-    opacity: 0.30;
+    opacity: 0.40;
 }
 
 .ancho{
     width: 40%;
-    height: 28rem;
+    height: auto;
 }
 .register-btn{
     color: white;
     font-size: large;
     text-align: center;
+}
+
+i{
+    vertical-align: -webkit-baseline-middle;
+    font-size: x-large;
+}
+
+.a1{
+    margin-top: 2rem;
 }
