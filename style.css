@@ -21,6 +21,8 @@
 }
 .nav-fondo{
     background-color: black;
+    position: relative;
+    z-index: 2;
 }
 
 .inicio{
@@ -28,8 +30,9 @@
     text-decoration: underline;
 }
 
+
 .opacity::before {    
-    content: "";
+    content:"";
     background-image: url('images/fondo.jpg');
     background-size: cover;
     position: absolute;
@@ -38,6 +41,7 @@
     bottom: -362px;
     left: 0px;
     opacity: 0.40;
+    z-index: 1;
 }
 
 .ancho{
@@ -57,4 +61,7 @@ i{
 
 .a1{
     margin-top: 2rem;
+    position: relative;
+    z-index: 2;
 }
+
