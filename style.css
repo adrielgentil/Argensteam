@@ -87,6 +87,7 @@ i{
    height: 30rem;
    margin: 0;
    padding: 0;
+   width: 80%;
 }
 .titulo{
     color: white;
@@ -97,4 +98,13 @@ i{
 }
 .carrouselCentrado{
     text-align: -webkit-center;
+}
+.tamañoJuegoVenta{
+    height: 14rem;
+    margin: 0;
+    padding: 0;
+    width: 9rem;
+}
+.tarjeta{
+    text-align: center;
 }
